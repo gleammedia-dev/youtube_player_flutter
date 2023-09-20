@@ -13,8 +13,8 @@ dependencies:
     sdk: flutter
   flutter_inappwebview:
       git:
-          url: https://github.com/Estrelio/flutter_inappwebview.git
-          ref: fix-xcode-17
+          url: https://github.com/gleammedia-dev/flutter_inappwebview.git
+          ref: fix-code-17
 
 dev_dependencies:
   flutter_test:
